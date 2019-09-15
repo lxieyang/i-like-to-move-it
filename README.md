@@ -4,11 +4,11 @@ A little exercise to practice JavaScript event listeners created for PUI/SSUI Fa
 
 ## Deployed at:
 
-
+[https://move-the-falcon.netlify.com/](https://move-the-falcon.netlify.com/)
 
 ## Preview
 
-![f9](./preview/f9-gif.gif)
+<img width="300" src="./preview/f9-gif.gif" />
 
 ## Exercise
 
