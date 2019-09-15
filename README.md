@@ -1,6 +1,8 @@
 # Maneuver thy Falcon
 
-A little exercise to practice JavaScript event listeners created for PUI/SSUI Fall 2019 at CMU HCII.
+A little exercise to practice JavaScript event listeners.
+
+Created by [Michael Xieyang Liu](https://lxieyang.github.io) for [PUI/SSUI Fall 2019](https://hcii.cmu.edu/courses/programming-usable-interfaces) at [CMU HCII](https://hcii.cmu.edu/).
 
 ## Deployed at:
 
